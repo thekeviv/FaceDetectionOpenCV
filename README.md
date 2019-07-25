@@ -1,0 +1,2 @@
+# FaceDetectionOpenCV
+The project houses face detection demoes on static images and a live video stream from a webcam. OpenCV library is used and the predictions are being generated using the caffe models supplied by the contributors of the OpenCV library. For face detection on static images, see FaceDetectionOpenCV.py and for face detections on a live video stream from webcam, see FaceDetectionVideoOpenCV.py. This project was created in Visual Studio 2019 in the Anaconda3 Environment
